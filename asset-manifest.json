@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/recworld/static/css/main.b1489245.chunk.css",
+    "main.css": "/recworld/static/css/main.3664d5a0.chunk.css",
     "main.js": "/recworld/static/js/main.9b601ffc.chunk.js",
     "main.js.map": "/recworld/static/js/main.9b601ffc.chunk.js.map",
     "runtime-main.js": "/recworld/static/js/runtime-main.ec7b1bc7.js",
@@ -9,10 +9,10 @@
     "static/js/2.681e3d27.chunk.js": "/recworld/static/js/2.681e3d27.chunk.js",
     "static/js/2.681e3d27.chunk.js.map": "/recworld/static/js/2.681e3d27.chunk.js.map",
     "index.html": "/recworld/index.html",
-    "precache-manifest.e66ac34b90866700bdcea89cfafa95a6.js": "/recworld/precache-manifest.e66ac34b90866700bdcea89cfafa95a6.js",
+    "precache-manifest.3b4d35bdf0cfd05fe6222052c974d565.js": "/recworld/precache-manifest.3b4d35bdf0cfd05fe6222052c974d565.js",
     "service-worker.js": "/recworld/service-worker.js",
     "static/css/2.190caba9.chunk.css.map": "/recworld/static/css/2.190caba9.chunk.css.map",
-    "static/css/main.b1489245.chunk.css.map": "/recworld/static/css/main.b1489245.chunk.css.map",
+    "static/css/main.3664d5a0.chunk.css.map": "/recworld/static/css/main.3664d5a0.chunk.css.map",
     "static/js/2.681e3d27.chunk.js.LICENSE.txt": "/recworld/static/js/2.681e3d27.chunk.js.LICENSE.txt",
     "static/media/venus.glb": "/recworld/static/media/venus.f6ef71ab.glb"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.ec7b1bc7.js",
     "static/css/2.190caba9.chunk.css",
     "static/js/2.681e3d27.chunk.js",
-    "static/css/main.b1489245.chunk.css",
+    "static/css/main.3664d5a0.chunk.css",
     "static/js/main.9b601ffc.chunk.js"
   ]
 }
