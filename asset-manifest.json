@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/recworld/static/css/main.3664d5a0.chunk.css",
-    "main.js": "/recworld/static/js/main.9b601ffc.chunk.js",
-    "main.js.map": "/recworld/static/js/main.9b601ffc.chunk.js.map",
+    "main.js": "/recworld/static/js/main.cf3114c3.chunk.js",
+    "main.js.map": "/recworld/static/js/main.cf3114c3.chunk.js.map",
     "runtime-main.js": "/recworld/static/js/runtime-main.ec7b1bc7.js",
     "runtime-main.js.map": "/recworld/static/js/runtime-main.ec7b1bc7.js.map",
     "static/css/2.190caba9.chunk.css": "/recworld/static/css/2.190caba9.chunk.css",
     "static/js/2.681e3d27.chunk.js": "/recworld/static/js/2.681e3d27.chunk.js",
     "static/js/2.681e3d27.chunk.js.map": "/recworld/static/js/2.681e3d27.chunk.js.map",
     "index.html": "/recworld/index.html",
-    "precache-manifest.3b4d35bdf0cfd05fe6222052c974d565.js": "/recworld/precache-manifest.3b4d35bdf0cfd05fe6222052c974d565.js",
+    "precache-manifest.920be34ea955cc18b9b59651264b7dd5.js": "/recworld/precache-manifest.920be34ea955cc18b9b59651264b7dd5.js",
     "service-worker.js": "/recworld/service-worker.js",
     "static/css/2.190caba9.chunk.css.map": "/recworld/static/css/2.190caba9.chunk.css.map",
     "static/css/main.3664d5a0.chunk.css.map": "/recworld/static/css/main.3664d5a0.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.190caba9.chunk.css",
     "static/js/2.681e3d27.chunk.js",
     "static/css/main.3664d5a0.chunk.css",
-    "static/js/main.9b601ffc.chunk.js"
+    "static/js/main.cf3114c3.chunk.js"
   ]
 }
