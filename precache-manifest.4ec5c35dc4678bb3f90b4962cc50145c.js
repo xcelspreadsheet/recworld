@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9e2173b31214a9abed24bcf10da56d5",
+    "revision": "bb89e1af74c32099034a37d128f89753",
     "url": "/recworld/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/recworld/static/css/2.822d6ebf.chunk.css"
   },
   {
-    "revision": "bb62d47c82a0b42b53e2",
-    "url": "/recworld/static/css/main.24861c6e.chunk.css"
+    "revision": "0f7f84a893e434fbae2a",
+    "url": "/recworld/static/css/main.43fc9130.chunk.css"
   },
   {
     "revision": "29151ca621ea9c185b92",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/recworld/static/js/2.1d39650f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bb62d47c82a0b42b53e2",
-    "url": "/recworld/static/js/main.f7d002d9.chunk.js"
+    "revision": "0f7f84a893e434fbae2a",
+    "url": "/recworld/static/js/main.5458500c.chunk.js"
   },
   {
     "revision": "3c08b56f4f4f80941b1a",
