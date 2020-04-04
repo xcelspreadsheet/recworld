@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/recworld/static/css/main.c2de7cd0.chunk.css",
+    "main.js": "/recworld/static/js/main.4f5efddb.chunk.js",
+    "main.js.map": "/recworld/static/js/main.4f5efddb.chunk.js.map",
+    "runtime-main.js": "/recworld/static/js/runtime-main.ec7b1bc7.js",
+    "runtime-main.js.map": "/recworld/static/js/runtime-main.ec7b1bc7.js.map",
+    "static/css/2.822d6ebf.chunk.css": "/recworld/static/css/2.822d6ebf.chunk.css",
+    "static/js/2.d4f1f7d2.chunk.js": "/recworld/static/js/2.d4f1f7d2.chunk.js",
+    "static/js/2.d4f1f7d2.chunk.js.map": "/recworld/static/js/2.d4f1f7d2.chunk.js.map",
+    "index.html": "/recworld/index.html",
+    "precache-manifest.ad95bb91efae87e1c28b98f443c4893a.js": "/recworld/precache-manifest.ad95bb91efae87e1c28b98f443c4893a.js",
+    "service-worker.js": "/recworld/service-worker.js",
+    "static/css/2.822d6ebf.chunk.css.map": "/recworld/static/css/2.822d6ebf.chunk.css.map",
+    "static/css/main.c2de7cd0.chunk.css.map": "/recworld/static/css/main.c2de7cd0.chunk.css.map",
+    "static/js/2.d4f1f7d2.chunk.js.LICENSE.txt": "/recworld/static/js/2.d4f1f7d2.chunk.js.LICENSE.txt",
+    "static/media/venus.glb": "/recworld/static/media/venus.19786740.glb"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec7b1bc7.js",
+    "static/css/2.822d6ebf.chunk.css",
+    "static/js/2.d4f1f7d2.chunk.js",
+    "static/css/main.c2de7cd0.chunk.css",
+    "static/js/main.4f5efddb.chunk.js"
+  ]
+}
