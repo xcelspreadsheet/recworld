@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/recworld/static/css/main.b536b2e2.chunk.css",
-    "main.js": "/recworld/static/js/main.6e98279d.chunk.js",
-    "main.js.map": "/recworld/static/js/main.6e98279d.chunk.js.map",
+    "main.css": "/recworld/static/css/main.57738424.chunk.css",
+    "main.js": "/recworld/static/js/main.77c52f86.chunk.js",
+    "main.js.map": "/recworld/static/js/main.77c52f86.chunk.js.map",
     "runtime-main.js": "/recworld/static/js/runtime-main.ec7b1bc7.js",
     "runtime-main.js.map": "/recworld/static/js/runtime-main.ec7b1bc7.js.map",
     "static/css/2.822d6ebf.chunk.css": "/recworld/static/css/2.822d6ebf.chunk.css",
     "static/js/2.1d39650f.chunk.js": "/recworld/static/js/2.1d39650f.chunk.js",
     "static/js/2.1d39650f.chunk.js.map": "/recworld/static/js/2.1d39650f.chunk.js.map",
     "index.html": "/recworld/index.html",
-    "precache-manifest.4882a8553fc146bdc922ce63ab31b640.js": "/recworld/precache-manifest.4882a8553fc146bdc922ce63ab31b640.js",
+    "precache-manifest.992b35b3c9e2c4e227925c04f0026877.js": "/recworld/precache-manifest.992b35b3c9e2c4e227925c04f0026877.js",
     "service-worker.js": "/recworld/service-worker.js",
     "static/css/2.822d6ebf.chunk.css.map": "/recworld/static/css/2.822d6ebf.chunk.css.map",
-    "static/css/main.b536b2e2.chunk.css.map": "/recworld/static/css/main.b536b2e2.chunk.css.map",
+    "static/css/main.57738424.chunk.css.map": "/recworld/static/css/main.57738424.chunk.css.map",
     "static/js/2.1d39650f.chunk.js.LICENSE.txt": "/recworld/static/js/2.1d39650f.chunk.js.LICENSE.txt",
     "static/media/venus.glb": "/recworld/static/media/venus.19786740.glb"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.ec7b1bc7.js",
     "static/css/2.822d6ebf.chunk.css",
     "static/js/2.1d39650f.chunk.js",
-    "static/css/main.b536b2e2.chunk.css",
-    "static/js/main.6e98279d.chunk.js"
+    "static/css/main.57738424.chunk.css",
+    "static/js/main.77c52f86.chunk.js"
   ]
 }
